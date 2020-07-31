@@ -1,0 +1,11 @@
+//
+//  test.xcconfig
+//  BackgroundAppPressureTest
+//
+//  Created by jianjun on 2020-07-31.
+//  Copyright © 2020 Jianjun. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+LD = $(SRCROOT)/dryrun_ld.sh
